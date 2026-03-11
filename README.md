@@ -1,2 +1,2 @@
-# once_javiera
-Repositorio de las clases de media técnica.
+# once_javiera, mi primer codigo
+- Qué bien. Xddd 
